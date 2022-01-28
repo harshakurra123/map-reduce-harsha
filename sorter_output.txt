@@ -1,0 +1,859 @@
+Albuquerque	149.94
+Albuquerque	183.44
+Albuquerque	192.48
+Albuquerque	218.31
+Albuquerque	233.1
+Albuquerque	290.43
+Albuquerque	305
+Albuquerque	326.11
+Albuquerque	440.7
+Albuquerque	484.24
+Albuquerque	91.31
+Anaheim	204.75
+Anaheim	21.53
+Anaheim	274.68
+Anaheim	341.43
+Anaheim	357.37
+Anaheim	447.8
+Anaheim	456.53
+Anaheim	48.34
+Anaheim	66.07
+Anchorage	118.46
+Anchorage	144.33
+Anchorage	22.36
+Anchorage	230.76
+Anchorage	298.86
+Anchorage	334.73
+Anchorage	368.42
+Anchorage	390.2
+Anchorage	44.25
+Anchorage	450.6
+Anchorage	59.31
+Anchorage	6.38
+Arlington	166.33
+Arlington	169.33
+Arlington	25.46
+Arlington	300.93
+Arlington	400.08
+Atlanta	109.02
+Atlanta	221.24
+Atlanta	254.62
+Atlanta	267.03
+Atlanta	292.35
+Atlanta	48.79
+Atlanta	484.31
+Aurora	117.81
+Aurora	256.25
+Aurora	368.16
+Aurora	475.65
+Aurora	481.68
+Aurora	495.97
+Austin	112.66
+Austin	113.26
+Austin	127.8
+Austin	166.57
+Austin	186.6
+Austin	294.33
+Austin	325.1
+Austin	327.75
+Austin	379.6
+Austin	418.26
+Austin	469.63
+Austin	483.1
+Bakersfield	149.04
+Bakersfield	217.79
+Bakersfield	314.67
+Bakersfield	36.89
+Bakersfield	368.94
+Bakersfield	498.93
+Bakersfield	91.01
+Baltimore	0.18
+Baltimore	11.63
+Baltimore	110.52
+Baltimore	191.65
+Baltimore	221.79
+Baltimore	245.79
+Baltimore	255.77
+Baltimore	269.7
+Baltimore	28.37
+Baltimore	308.4
+Baltimore	456.62
+Baltimore	467.63
+Baltimore	7.98
+Baton Rouge	199.85
+Baton Rouge	207.96
+Baton Rouge	210.55
+Baton Rouge	322
+Baton Rouge	347.62
+Baton Rouge	387.9
+Baton Rouge	411.54
+Birmingham	192.95
+Birmingham	331.7
+Birmingham	368.69
+Birmingham	407.53
+Birmingham	411.8
+Birmingham	485.49
+Boise	130.54
+Boise	143.57
+Boise	199.71
+Boise	23.21
+Boise	288.66
+Boise	350.55
+Boise	430.02
+Boise	470.48
+Boston	188.8
+Boston	208.69
+Boston	282.6
+Boston	31.79
+Boston	321.06
+Boston	346.35
+Boston	360.81
+Boston	366.56
+Boston	390.14
+Boston	418.94
+Boston	477.91
+Boston	88.56
+Buffalo	269.4
+Buffalo	292.38
+Buffalo	344.08
+Buffalo	439.22
+Buffalo	483.82
+Chandler	24.31
+Chandler	289.09
+Chandler	291.45
+Chandler	295.39
+Chandler	344.09
+Chandler	363.52
+Chandler	371.26
+Chandler	414.08
+Chandler	419.92
+Chandler	421.75
+Chandler	423.12
+Chandler	467.48
+Charlotte	137.64
+Charlotte	265.2
+Charlotte	318.25
+Charlotte	408.1
+Charlotte	436.25
+Charlotte	440.11
+Chesapeake	29.41
+Chesapeake	3.85
+Chesapeake	333.31
+Chesapeake	343.04
+Chesapeake	349.23
+Chesapeake	371.14
+Chesapeake	372.74
+Chesapeake	392.13
+Chicago	16.15
+Chicago	188.25
+Chicago	209.46
+Chicago	267.91
+Chicago	31.08
+Chicago	405.12
+Chicago	406.11
+Chicago	46.65
+Chicago	465.46
+Chicago	93.5
+Chicago	95.59
+Chicago	98.92
+Chula Vista	11.25
+Chula Vista	185.9
+Chula Vista	355.7
+Chula Vista	389.23
+Chula Vista	93.74
+Cincinnati	216.99
+Cincinnati	23.83
+Cincinnati	236.57
+Cincinnati	299.55
+Cincinnati	460.26
+Cincinnati	90.8
+Cleveland	105.56
+Cleveland	289.73
+Cleveland	393.68
+Cleveland	427.43
+Cleveland	65.51
+Colorado Springs	0.74
+Colorado Springs	12.62
+Colorado Springs	163.28
+Colorado Springs	332.59
+Colorado Springs	354.67
+Colorado Springs	451.91
+Colorado Springs	453.16
+Colorado Springs	71.58
+Colorado Springs	76.61
+Columbus	133.61
+Columbus	142.24
+Columbus	197.37
+Columbus	223.58
+Columbus	349.83
+Columbus	392.5
+Columbus	393.02
+Columbus	403.7
+Columbus	494.66
+Corpus Christi	216.5
+Corpus Christi	25.38
+Corpus Christi	254.39
+Corpus Christi	293.04
+Corpus Christi	297.13
+Corpus Christi	485.96
+Corpus Christi	82.54
+Dallas	273.49
+Dallas	434.94
+Dallas	473.69
+Dallas	481.52
+Dallas	57.3
+Denver	173.72
+Denver	189.88
+Denver	207.76
+Denver	239.49
+Denver	242.29
+Denver	468.08
+Detroit	130.88
+Detroit	134.89
+Detroit	181.94
+Detroit	327.04
+Detroit	407.49
+Detroit	7.2
+Detroit	77.06
+Durham	13.49
+Durham	131.97
+Durham	193.01
+Durham	296.45
+Durham	336.48
+Durham	422.56
+Durham	425.79
+Durham	477.38
+Durham	77.32
+El Paso	103.01
+El Paso	124.85
+El Paso	126.12
+El Paso	26.72
+El Paso	460.68
+El Paso	84.56
+Fort Wayne	151.91
+Fort Wayne	226.14
+Fort Wayne	283.99
+Fort Wayne	37.11
+Fort Wayne	370.55
+Fort Wayne	374.14
+Fort Worth	100.38
+Fort Worth	133.16
+Fort Worth	153.57
+Fort Worth	213.88
+Fort Worth	358.08
+Fort Worth	360.34
+Fort Worth	379.66
+Fort Worth	400.35
+Fort Worth	487.35
+Fort Worth	60.1
+Fremont	120.64
+Fremont	17.12
+Fremont	179.52
+Fremont	222.61
+Fremont	243.05
+Fremont	329.51
+Fremont	39.72
+Fremont	470.16
+Fresno	186.56
+Fresno	196.83
+Fresno	326.29
+Fresno	418.37
+Fresno	461.48
+Fresno	466.64
+Fresno	60.92
+Garland	0.71
+Garland	134.33
+Garland	206.06
+Garland	266.71
+Garland	427.97
+Garland	82.08
+Garland	90.96
+Gilbert	151.46
+Gilbert	299.3
+Gilbert	388.29
+Gilbert	451.59
+Gilbert	465.6
+Gilbert	74.71
+Gilbert	77.33
+Glendale	199.67
+Glendale	220.63
+Glendale	279.86
+Glendale	435.4
+Glendale	445.5
+Glendale	81.91
+Greensboro	100.2
+Greensboro	11.22
+Greensboro	11.96
+Greensboro	140.94
+Greensboro	142.41
+Greensboro	207.88
+Greensboro	261.16
+Greensboro	279.54
+Greensboro	290.82
+Greensboro	306.01
+Greensboro	371.98
+Greensboro	438.7
+Greensboro	484.16
+Greensboro	7.06
+Henderson	124.52
+Henderson	358.35
+Henderson	497.17
+Henderson	92.43
+Hialeah	176.98
+Hialeah	241.2
+Hialeah	395.99
+Hialeah	461.34
+Hialeah	485.06
+Honolulu	164.92
+Honolulu	19.85
+Honolulu	255.96
+Honolulu	307.18
+Honolulu	332.58
+Honolulu	345.18
+Honolulu	39.82
+Honolulu	40.78
+Honolulu	417.42
+Honolulu	91.59
+Houston	121.24
+Houston	125.14
+Houston	135.7
+Houston	183.38
+Houston	197.32
+Houston	215.04
+Houston	25.59
+Houston	263.44
+Houston	309.16
+Houston	331.68
+Houston	450.71
+Houston	461.11
+Houston	464.15
+Indianapolis	1.29
+Indianapolis	105.47
+Indianapolis	135.96
+Indianapolis	142.02
+Indianapolis	149.05
+Indianapolis	35.81
+Irvine	105.3
+Irvine	152.12
+Irvine	152.86
+Irvine	208.16
+Irvine	327.28
+Irvine	335.86
+Irvine	415.36
+Irving	111.36
+Irving	163.57
+Irving	199.42
+Irving	331.38
+Irving	422.78
+Irving	496.73
+Irving	87.49
+Jacksonville	187.85
+Jacksonville	203.43
+Jacksonville	325.19
+Jacksonville	345.1
+Jacksonville	359.65
+Jacksonville	422
+Jacksonville	444.15
+Jersey City	108.25
+Jersey City	11.29
+Jersey City	114.9
+Jersey City	155.28
+Jersey City	169.4
+Jersey City	264.72
+Jersey City	329.03
+Jersey City	339.77
+Jersey City	4.28
+Jersey City	45.75
+Jersey City	46.07
+Jersey City	481.23
+Jersey City	58.09
+Kansas City	129.79
+Kansas City	133.57
+Kansas City	134.61
+Kansas City	206.27
+Kansas City	293.16
+Kansas City	302.69
+Kansas City	364.24
+Kansas City	39.26
+Kansas City	41.77
+Kansas City	443.78
+Kansas City	62.12
+Kansas City	97.02
+Laredo	252.63
+Laredo	303.26
+Laredo	323.35
+Laredo	348.21
+Laredo	387.05
+Laredo	48.11
+Las Vegas	152.94
+Las Vegas	155.66
+Las Vegas	199.09
+Las Vegas	263.28
+Las Vegas	306.84
+Las Vegas	37.83
+Las Vegas	478.53
+Las Vegas	53.26
+Las Vegas	87.49
+Las Vegas	93.39
+Lexington	150.73
+Lexington	274.99
+Lexington	306.41
+Lexington	315.29
+Lexington	359.29
+Lexington	369.87
+Lexington	4.4
+Lexington	446.19
+Lexington	450.24
+Lexington	87.86
+Lincoln	136.9
+Lincoln	18.89
+Lincoln	235.9
+Lincoln	248.26
+Lincoln	314.08
+Lincoln	393.55
+Lincoln	406.49
+Lincoln	437.51
+Lincoln	482.94
+Lincoln	84.18
+Lincoln	92.93
+Long Beach	106.57
+Long Beach	169.09
+Long Beach	32.86
+Long Beach	348.56
+Long Beach	42.48
+Long Beach	453.08
+Long Beach	98.23
+Los Angeles	37.77
+Los Angeles	380.67
+Los Angeles	389.7
+Los Angeles	430.34
+Los Angeles	61.22
+Louisville	111.32
+Louisville	255.28
+Louisville	29.07
+Louisville	307.95
+Louisville	317.72
+Louisville	369.98
+Lubbock	102.79
+Lubbock	220.18
+Lubbock	222.47
+Lubbock	229.74
+Lubbock	304.11
+Lubbock	308.53
+Lubbock	322.19
+Lubbock	366.13
+Lubbock	390.35
+Lubbock	452.07
+Lubbock	496.04
+Lubbock	78.78
+Madison	122.17
+Madison	16.78
+Madison	160.9
+Madison	188.79
+Madison	202.7
+Madison	337.8
+Madison	427.22
+Memphis	157.59
+Memphis	267.76
+Memphis	353.26
+Memphis	441.85
+Memphis	449.7
+Memphis	47.38
+Memphis	488.5
+Memphis	50.9
+Memphis	58.66
+Memphis	9.47
+Mesa	11.54
+Mesa	110.66
+Mesa	214.78
+Mesa	249.36
+Mesa	27.56
+Mesa	270.85
+Mesa	284.34
+Mesa	314.05
+Mesa	62.13
+Mesa	70.75
+Mesa	99.81
+Miami	102.53
+Miami	140.47
+Miami	166.14
+Miami	191.28
+Miami	24.59
+Miami	418.27
+Miami	442.4
+Miami	498.32
+Milwaukee	209.18
+Milwaukee	267.36
+Milwaukee	28.36
+Milwaukee	290.67
+Milwaukee	329.25
+Milwaukee	409.58
+Milwaukee	418.29
+Milwaukee	418.91
+Milwaukee	423.32
+Milwaukee	487.86
+Milwaukee	74.07
+Milwaukee	74.16
+Minneapolis	106.08
+Minneapolis	182.05
+Minneapolis	205.79
+Minneapolis	206.97
+Minneapolis	216.99
+Minneapolis	261.53
+Minneapolis	322.37
+Minneapolis	446.55
+Minneapolis	486.46
+Minneapolis	49.94
+Nashville	178.48
+Nashville	297.43
+Nashville	405.18
+Nashville	425.54
+Nashville	452.04
+Nashville	457.96
+Nashville	467.62
+Nashville	48.45
+Nashville	51.21
+Nashville	59.72
+New Orleans	157.08
+New Orleans	182.68
+New Orleans	187.54
+New Orleans	242.31
+New Orleans	32.96
+New Orleans	336.28
+New Orleans	37.42
+New Orleans	382.41
+New York	117.98
+New York	153.84
+New York	18.27
+New York	233.51
+New York	257.19
+New York	269.91
+New York	296.8
+New York	301.4
+New York	32.81
+New York	326.88
+New York	338.95
+New York	383.34
+Newark	243.21
+Newark	276.99
+Newark	280.5
+Newark	371.88
+Newark	39.75
+Newark	467.11
+Newark	469.78
+Norfolk	16.33
+Norfolk	17.77
+Norfolk	176.29
+Norfolk	189.01
+Norfolk	224.09
+Norfolk	274.88
+Norfolk	305.99
+Norfolk	395.63
+Norfolk	432.98
+Norfolk	480.24
+North Las Vegas	271.43
+North Las Vegas	366.12
+North Las Vegas	393.76
+North Las Vegas	402.55
+North Las Vegas	409.26
+Oakland	103.97
+Oakland	155.33
+Oakland	160.96
+Oakland	346.66
+Oakland	347.48
+Oakland	357.38
+Oakland	434.96
+Oakland	443.37
+Oklahoma City	14.62
+Oklahoma City	150.99
+Oklahoma City	162.52
+Oklahoma City	166.08
+Oklahoma City	3.9
+Oklahoma City	478.32
+Oklahoma City	495.4
+Omaha	160.88
+Omaha	164.38
+Omaha	188.5
+Omaha	235.63
+Omaha	255.68
+Omaha	333.15
+Omaha	387.75
+Omaha	427.08
+Omaha	435.3
+Omaha	436.01
+Orlando	160.07
+Orlando	17.59
+Orlando	459.12
+Philadelphia	134.46
+Philadelphia	223.4
+Philadelphia	259.14
+Philadelphia	275.79
+Philadelphia	332.48
+Philadelphia	351.31
+Philadelphia	458.27
+Philadelphia	482.97
+Phoenix	129.06
+Phoenix	197.64
+Phoenix	2.55
+Phoenix	259.52
+Phoenix	371.21
+Phoenix	426.43
+Phoenix	489.8
+Phoenix	94.3
+Pittsburgh	131.02
+Pittsburgh	141.26
+Pittsburgh	255.59
+Pittsburgh	300.91
+Pittsburgh	407.37
+Pittsburgh	422.54
+Pittsburgh	46.99
+Pittsburgh	475.26
+Pittsburgh	493.51
+Plano	181.96
+Plano	21.01
+Plano	213.51
+Plano	285.46
+Plano	308.08
+Plano	308.47
+Plano	332.72
+Plano	80.72
+Portland	108.69
+Portland	182
+Portland	25.72
+Portland	262.5
+Portland	75.58
+Portland	95
+Raleigh	211.08
+Raleigh	274.2
+Raleigh	314.1
+Raleigh	314.21
+Raleigh	416.07
+Raleigh	443.46
+Raleigh	488.65
+Reno	165.85
+Reno	19.99
+Reno	294.46
+Reno	461.62
+Reno	49.61
+Reno	58.23
+Reno	62.14
+Reno	74.11
+Reno	76.12
+Reno	80.46
+Reno	88.25
+Richmond	110.71
+Richmond	131.91
+Richmond	184.54
+Richmond	203.2
+Richmond	203.84
+Richmond	251.11
+Richmond	289.02
+Richmond	367.76
+Richmond	397.36
+Richmond	46.48
+Richmond	86.8
+Riverside	15.41
+Riverside	187.28
+Riverside	2
+Riverside	252.88
+Riverside	278.61
+Riverside	414.33
+Riverside	472.71
+Riverside	84.4
+Rochester	12.36
+Rochester	156.21
+Rochester	297.72
+Rochester	363.83
+Rochester	431.34
+Rochester	70.37
+Rochester	75.73
+Sacramento	141.59
+Sacramento	218.58
+Sacramento	259.03
+Sacramento	378.6
+Sacramento	42.43
+Sacramento	446.96
+Sacramento	50.27
+Sacramento	97.16
+Saint Paul	135.06
+Saint Paul	138.93
+Saint Paul	276.81
+Saint Paul	33.13
+Saint Paul	342.35
+Saint Paul	350.91
+Saint Paul	473.62
+Saint Paul	85.57
+San Antonio	125.35
+San Antonio	210.32
+San Antonio	260.12
+San Antonio	336.38
+San Antonio	38.67
+San Bernardino	100.38
+San Bernardino	145.21
+San Bernardino	170.2
+San Bernardino	243.99
+San Bernardino	304.03
+San Bernardino	36.94
+San Bernardino	394.52
+San Bernardino	398.46
+San Bernardino	454.17
+San Bernardino	9.89
+San Diego	147.41
+San Diego	188.46
+San Diego	238.16
+San Diego	25.74
+San Diego	296.6
+San Diego	357.1
+San Diego	66.08
+San Francisco	133.31
+San Francisco	154.01
+San Francisco	203.82
+San Francisco	206.92
+San Francisco	211.66
+San Francisco	260.65
+San Francisco	292.62
+San Francisco	370.81
+San Francisco	4.94
+San Francisco	411.08
+San Francisco	442.79
+San Francisco	475.82
+San Jose	136.12
+San Jose	160.6
+San Jose	192.82
+San Jose	204.88
+San Jose	214.05
+San Jose	215.82
+San Jose	250.46
+San Jose	253.33
+San Jose	285.57
+San Jose	337.71
+San Jose	422.91
+San Jose	95.81
+Santa Ana	107.94
+Santa Ana	125.88
+Santa Ana	215.22
+Santa Ana	294.98
+Santa Ana	304.16
+Santa Ana	352.47
+Santa Ana	403.42
+Santa Ana	428.78
+Santa Ana	432.45
+Santa Ana	476.33
+Santa Ana	481.44
+Scottsdale	113.85
+Scottsdale	142.77
+Scottsdale	151.64
+Scottsdale	277.66
+Scottsdale	295.9
+Scottsdale	30.36
+Scottsdale	344.22
+Scottsdale	400.61
+Scottsdale	419.06
+Scottsdale	423.52
+Scottsdale	461.2
+Scottsdale	480.9
+Scottsdale	492.96
+Seattle	101.49
+Seattle	162.97
+Seattle	353.58
+Seattle	375.07
+Seattle	411.15
+Seattle	442.41
+Seattle	453.07
+Seattle	481.32
+Seattle	52.72
+Seattle	59.53
+Spokane	15.49
+Spokane	157.48
+Spokane	230.81
+Spokane	245.63
+Spokane	287.65
+Spokane	295.4
+Spokane	3.85
+Spokane	335.68
+Spokane	343.49
+St. Louis	0.87
+St. Louis	159.51
+St. Louis	298.76
+St. Petersburg	152.9
+St. Petersburg	159.31
+St. Petersburg	183.24
+St. Petersburg	287.47
+St. Petersburg	34.54
+St. Petersburg	359.82
+St. Petersburg	47.37
+St. Petersburg	89.34
+Stockton	228.21
+Stockton	247.18
+Stockton	260.28
+Stockton	282.1
+Stockton	310.11
+Stockton	465.15
+Stockton	48.34
+Tampa	153.44
+Tampa	16.09
+Tampa	211.28
+Tampa	237.29
+Tampa	286.88
+Tampa	307.82
+Tampa	316.25
+Tampa	33.89
+Tampa	437.19
+Tampa	72.7
+Toledo	11.98
+Toledo	173.44
+Toledo	195.18
+Toledo	324.14
+Toledo	350.97
+Toledo	397.95
+Toledo	495.81
+Toledo	59.08
+Toledo	70.36
+Toledo	71.75
+Toledo	96.17
+Tucson	216.9
+Tucson	247.4
+Tucson	268.79
+Tucson	28.91
+Tucson	317.22
+Tucson	366.74
+Tucson	367.76
+Tucson	379.08
+Tucson	442.24
+Tucson	450.33
+Tulsa	127.16
+Tulsa	127.19
+Tulsa	185.67
+Tulsa	20.07
+Tulsa	205.06
+Tulsa	206.82
+Tulsa	232.11
+Tulsa	336.92
+Virginia Beach	145.38
+Virginia Beach	208.7
+Virginia Beach	271.56
+Virginia Beach	376.11
+Virginia Beach	91.6
+Washington	144.14
+Washington	213.39
+Washington	257.67
+Washington	340.32
+Washington	392.81
+Washington	64.95
+Washington	68.44
+Wichita	146.07
+Wichita	296.63
+Wichita	326.65
+Wichita	460.38
+Wichita	499.55
+Wichita	80.44
+Wichita	84.55
+Winston–Salem	102.39
+Winston–Salem	111.85
+Winston–Salem	170.06
+Winston–Salem	293.71
+Winston–Salem	361.66
+Winston–Salem	380.75
+Winston–Salem	411.46
+Winston–Salem	418.26
+Winston–Salem	43.02
